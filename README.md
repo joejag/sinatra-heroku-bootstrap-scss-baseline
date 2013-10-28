@@ -1,0 +1,1 @@
+Baseline for Sinatra apps.
